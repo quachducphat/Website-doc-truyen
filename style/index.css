@@ -4,12 +4,18 @@
     box-sizing: border-box;
 }
 
-.widthScreen
-{
+.widthScreen {
     width: 1000px;
 }
 
-a{
+.nav-main:hover {
+    background-color: #555;
+    color: white;
+}
+
+a {
     cursor: pointer;
     text-decoration: none;
 }
+
+
